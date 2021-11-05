@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <group android:checkableBehavior="single">
+        <item
+            android:title="Zastępstwa"
+            android:icon="@drawable/ic_substitutes"
+            android:id="@+id/substitutes"
+            android:checked="true"
+            />
+        <item
+            android:title="Plan lekcji"
+            android:icon="@drawable/ic_timetable"
+            android:id="@+id/timetable"
+            />
+        <item
+            android:title="Aktualności"
+            android:icon="@drawable/ic_news"
+            android:id="@+id/news"
+            />
+        <item
+            android:title="Osiągnięcia uczniów"
+            android:icon="@drawable/ic_achievement"
+            android:id="@+id/achievements"
+            />
+
+    </group>
+    <item android:title=""
+        >
+        <menu>
+            <group android:checkableBehavior="single">
+                <item
+                    android:title="Ustawienia"
+                    android:icon="@drawable/setting"
+                    android:id="@+id/setting"
+                    />
+                <item
+                    android:title="Wsparcie"
+                    android:icon="@drawable/support"
+                    android:id="@+id/support"
+                    />
+            </group>
+        </menu>
+    </item>
+</menu>

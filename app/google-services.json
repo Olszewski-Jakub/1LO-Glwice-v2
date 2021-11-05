@@ -1,0 +1,92 @@
+{
+  "project_info": {
+    "project_number": "243030587522",
+    "firebase_url": "https://lo-gliwice.firebaseio.com",
+    "project_id": "lo-gliwice",
+    "storage_bucket": "lo-gliwice.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:243030587522:android:7cec110463796241c4dc9b",
+        "android_client_info": {
+          "package_name": "com.jakubolszewski.a1lo_glwice_v2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "243030587522-qbtufk9rejdar7ufsp1vhupha59red1h.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAClNONLAxzxkfIDn2aY-MHACKsRWF4Y8E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "243030587522-qbtufk9rejdar7ufsp1vhupha59red1h.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "243030587522-vc82442vknepucb42vgol37qcvbfrps5.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "Jakub-Olszewski.-LO-Gliwice"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:243030587522:android:33e7997bf03d40eac4dc9b",
+        "android_client_info": {
+          "package_name": "com.jakubolszewski.lo1gliwice"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "243030587522-rq8i8kj545dnalrpqe2pegd62jeijhju.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.jakubolszewski.lo1gliwice",
+            "certificate_hash": "e222e335dc737cd996289d27363200dc60963069"
+          }
+        },
+        {
+          "client_id": "243030587522-qbtufk9rejdar7ufsp1vhupha59red1h.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAClNONLAxzxkfIDn2aY-MHACKsRWF4Y8E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "243030587522-qbtufk9rejdar7ufsp1vhupha59red1h.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "243030587522-vc82442vknepucb42vgol37qcvbfrps5.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "Jakub-Olszewski.-LO-Gliwice"
+              }
+            }
+          ]
+        }
+      },
+      "admob_app_id": "ca-app-pub-8202098045766771~6476094380"
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">1LO Gliwice</string>
+    <string name="open">Open</string>
+    <string name="close">Close</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="header_name">I Liceum Ogólnokształcące Dwujęzyczne\nim. E. Dembowskiego</string>
+    <string name="banner_id">ca-app-pub-8202098045766771/2474089364</string>
+</resources>
